@@ -4,13 +4,13 @@
   "type": "wordpress-plugin",
   "require": {
   	"php": ">=5.6.0",
-    "composer/installers": "v1.0.6"
+    "composer/installers": "v1.0.6",
   },
   "authors": [
     {
       "name": "Angelo Urian",
       "email": "urian.markangelo@gmail.com",
-      "homepage": "https://github.com/angelourian/"
+      "homepage": "https://github.com/angelourian/",
     }
   ],
 }
