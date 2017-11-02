@@ -1,12 +1,12 @@
 {
-  "name": "angelourian/icgcreator",
+  "name": "angelourian/masurian",
   "description": "WordPress Plugin with custom API and other custom WP functions for one specific and dedicated project.",
   "type": "wordpress-plugin",
   "authors": [
     {
       "name": "Angelo Urian",
       "email": "urian.markangelo@gmail.com",
-      "homepage": "https://github.com/angelourian/",
+      "homepage": "https://github.com/angelourian",
     },
   ],
   "require": {
