@@ -2,6 +2,7 @@
   "name": "angelourian/masurian",
   "description": "WordPress Plugin with custom API and other custom WP functions for one specific and dedicated project.",
   "type": "wordpress-plugin",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Angelo Urian",
